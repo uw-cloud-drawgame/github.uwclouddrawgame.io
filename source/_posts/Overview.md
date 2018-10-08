@@ -15,10 +15,15 @@ This project will allow multiple users to connect to a shared drawing space, whe
 
 ## Project Plan:
 ### Milestone 1 - Develop Centralized Application
-* Design
-* Implement
-* todo
+* 1.1 (10/08/2018) Working Simple Mockup
+* 1.2 (10/22/2018) Core Functionality Working
+    * Multiple users can draw together
+* 1.3 (11/05/2018) Centralized Application Complete
+    * Users
+    * Rooms
+    * User stats
 
 ### Milestone 2 - Develop Scaled Application
-* ??? todo
+* 2.1 (11/19/2018) ??? Mid Point ???
+* 2.? (12/07/2018) Project Complete
 
