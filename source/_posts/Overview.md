@@ -4,14 +4,16 @@ date: 2018-09-26 01:00:00
 tags:
 ---
 
-## Group Name: DrawGame ??
+## Group Name: DrawGame
 ## Group Members:
 Thomas Nguyen, Matthew Karami, Haiqiao Chen, Michael Poulain
 ## GitLab Repo:
 https://gitlab.cs.washington.edu/poulainm/cloud-capstone-drawgame/
 
 ## Overview:
-This project will allow multiple users to connect to a shared drawing space, where users can collaborate to draw images together TODO
+This project will allow multiple users to connect to a shared drawing space, where users can collaborate to draw images together across different rooms. The project
+will be horizontally scalable, such that the rooms can be partitioned between
+servers 
 
 ## Project Plan:
 ### Milestone 1 - Develop Centralized Application
@@ -24,6 +26,6 @@ This project will allow multiple users to connect to a shared drawing space, whe
     * User stats
 
 ### Milestone 2 - Develop Scaled Application
-* 2.1 (11/19/2018) ??? Mid Point ???
-* 2.? (12/07/2018) Project Complete
+* 2.1 (11/19/2018) Mid Point
+* 2.2 (12/07/2018) Project Complete
 
